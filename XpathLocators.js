@@ -24,4 +24,4 @@
 //a[@id='homepage-link']
 
 //6
-//section[@class='module module--promo']
+//*[@class='media-list']//*[contains(@class, 'media media--overlay block-link')]

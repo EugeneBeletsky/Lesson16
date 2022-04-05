@@ -21,4 +21,4 @@ li.orb-nav-homedotcom
 //5
 #homepage-link
 //6
-section.module.module--promo
+.media-list .media.media--overlay.block-link:not(.media--primary)
